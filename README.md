@@ -2,7 +2,7 @@
 <h3>NAME:S Manoj kumar</h3> 
 <h3>REGISTER NO:212222040097</h3> 
 <h3>EX. NO:06</h3> 
-<h3>DATE:03/05/2025</h3>
+<h3>DATE:13/05/2025</h3>
 
 # Objective
 To implement matrix multiplication on the GPU using the cuBLAS library in CUDA C, and analyze the performance improvement over CPU-based matrix multiplication by leveraging GPU acceleration.
